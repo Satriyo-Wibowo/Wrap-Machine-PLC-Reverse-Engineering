@@ -31,7 +31,7 @@ This makes it easier to replace the components if they break or run empty.
 There are <b>[electronic parts](diagrams/electronic_parts_list.pdf)</b> and <b>[mechanic parts](diagrams/mechanic_parts_list.pdf)</b>
 list that I created to fully breakdown every working component in the machine.
 <div align="center">
-    <img src="diagrams/machine_parts_front.jpg" width="350"> <img src="diagrams/machine_parts_back.jpg" width="350">
+    <img src="diagrams/machine_parts_front.jpg" width="48%"> <img src="diagrams/machine_parts_back.jpg" width="48%">
 </div>
 
 ## Wiring Diagram
@@ -48,9 +48,9 @@ This <b>[wiring diagram](diagrams/wiring_diagram.pdf)</b> is recreated using a 2
 ## PLC Configuration
 When the panel box was opened, the LS Master-K120S PLC looked like the picture below (left).
 The PLC's I/O connections couldn't be observed clearly, so I make a <b>[PLC configuration scheme](diagrams/plc_configuration.pdf)</b>.
-The scheme makes it easier to identify which I/O port is responsible for spesific process sequences.
+The scheme makes it easier to identify which I/O port is responsible for specific process sequences.
 <div align="center">
-    <img src="documentation/PLC.jpg" width="500"> <img src="diagrams/plc_configuration.jpg" width="500">
+    <img src="documentation/PLC.jpg" width="48%"> <img src="diagrams/plc_configuration.jpg" width="48%">
 </div>
 
 ## Ladder Diagram
@@ -59,7 +59,7 @@ Thus, the plastic wrap machine's <b>[ladder diagram](diagrams/ladder_diagram.pdf
 using this software's read program feature.
 You can see the entire plastic wrap and sealing sequences from the <b>ladder diagram</b>.
 <div align="center">
-    <img src="diagrams/ladder_diagram_1.jpg" width="500"> <img src="diagrams/ladder_diagram_2.jpg" width="500">
+    <img src="diagrams/ladder_diagram_1.jpg" width="48%"> <img src="diagrams/ladder_diagram_2.jpg" width="48%">
 </div>
 
 ## Timing Chart
